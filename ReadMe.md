@@ -51,8 +51,6 @@ Deploy the website.
 Upload to GitHub Pages for free hosting.
 
 ## PROGRAM
-
-##HTML
 `
 <!DOCTYPE html>
 <html lang="en">
@@ -629,10 +627,8 @@ Control for much longer.</p>
 </body>
 
 </html>
-`
 
-## CSS
-`
+
 *,*::before,*::after{
     padding: 0;
     margin: 0;
