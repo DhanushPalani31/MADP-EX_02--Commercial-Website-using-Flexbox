@@ -51,7 +51,9 @@ Deploy the website.
 Upload to GitHub Pages for free hosting.
 
 ## PROGRAM
-
+ `
+ Refer the html and css code from index.html and index.css file
+ `
 
 ## OUTPUT
 <img width="1600" height="855" alt="image" src="https://github.com/user-attachments/assets/689c9d2d-9154-4e04-9617-80f7b689a3fd" />
